@@ -1,8 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE plist PUBLIC "-//Apple Computer//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
 <!--
-	Monarch v0.1.1
-	by Eric Magnuson
+	Monarchii 0.1.2
+	by Andre Trecksel
+	============================================
+	Based on Monarch v0.1.1 by Eric Magnuson
 	http://eri.cm/monarch
 	============================================
 	Based off Peacock by Dayle Rees
@@ -14,7 +16,7 @@
 <plist version="1.0">
 <dict>
 	<key>name</key>
-	<string>Monarch</string>
+	<string>Monarchii</string>
 	<key>settings</key>
 	<array>
 		<dict>
@@ -397,7 +399,6 @@
 				<string>#f5ea7c</string>
 			</dict>
 		</dict>
-		<!-- CSS -->
 		<dict>
 			<key>name</key>
 			<string>css tag-name</string>
@@ -510,7 +511,6 @@
 				<string>#eb9500</string>
 			</dict>
 		</dict>
-		<!-- LESS -->
 		<dict>
 			<key>name</key>
 			<string>less .mixins()</string>
@@ -579,14 +579,14 @@
 		</dict>
 	</array>
 	<key>uuid</key>
-	<string>GA4CCF34-S843-FK4F-JF0D-SF8439HF8723</string>
+	<string>GA4CCF34-S843-FK4F-EMSS-SF8439HF8723</string>
 	<key>colorSpaceName</key>
 	<string>sRGB</string>
 	<key>semanticClass</key>
-	<string>theme.dark.monarch</string>
+	<string>theme.dark.monarchii</string>
 	<key>author</key>
-	<string>Eric Magnuson</string>
+	<string>Andre Trecksel</string>
 	<key>comment</key>
-	<string>http:&#x2f;&#x2f;eri.cm&#x2f;monarch</string>
+	<string>based on http:&#x2f;&#x2f;eri.cm&#x2f;monarch</string>
 </dict>
 </plist>
